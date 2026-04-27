@@ -54,3 +54,17 @@ This UiPath automation replaces that entirely by:
 - Expand confidence checks to cover all extracted fields
 - Send automated email alerts for flagged invoices
 - Add error handling for unreadable or corrupted files
+
+## Workflow Screenshot
+![Workflow]
+(workflowContentGen.png
+workflowElse.png
+workflowFold&ExtractDoc.png
+workflowIfCondition.png
+workflowWriteRow.png)
+
+## Google Sheet Output
+![Google Sheet](sheet_output.png)
+
+## Log Messages
+![Logs](workflowLogMessage.png)
