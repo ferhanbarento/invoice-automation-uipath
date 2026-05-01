@@ -66,5 +66,6 @@ This UiPath automation replaces that entirely by:
 ## Google Sheet Output
 ![Google Sheet](sheet_output.png)
 
+
 ## Log Messages
 ![Logs](workflowLogMessage.png)
