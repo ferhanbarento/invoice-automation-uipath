@@ -56,12 +56,12 @@ This UiPath automation replaces that entirely by:
 - Add error handling for unreadable or corrupted files
 
 ## Workflow Screenshot
-![Workflow]
-(workflowContentGen.png
-workflowElse.png
-workflowFold&ExtractDoc.png
-workflowIfCondition.png
-workflowWriteRow.png)
+## Workflow Screenshot
+![Workflow](workflowContentGen.png )
+![Workflow](workflowElse.png)
+![Workflow](workflowFold&ExtractDoc.png)
+![Workflow](workflowIfCondition.png)
+![Workflow](workflowWriteRow.png)
 
 ## Google Sheet Output
 ![Google Sheet](sheet_output.png)
